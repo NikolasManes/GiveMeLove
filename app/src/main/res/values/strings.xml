@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Give Me Love</string>
+    <string name="editor_activity_title_add">Add new Pet</string>
+    <string name="editor_activity_title_edit">Edit Pet</string>
+    <string name="insert_dummy_data">Insert Dummy Data</string>
+    <string name="delete_all_entries">Delete All Entries</string>
+    <string name="action_save">Save</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="unknown_pet">Unknown</string>
+    <string name="insert_dummy_data_success">Dummy data inserted to the database</string>
+    <string name="insert_dummy_data_failed">Failed to insert dummy data</string>
+    <string name="delete_all_entries_succeed">All entries deleted</string>
+    <string name="delete_all_entries_failed">Fail to delete all entries</string>
+    <string name="saved_success">Pet saved</string>
+    <string name="saved_failed">Error with saving pet</string>
+    <string name="delete_pet_succeed">Pet deleted</string>
+    <string name="delete_pet_failed">Error with deleting pet</string>
+    <string name="update_success">Pet Updated</string>
+    <string name="update_failed">Error with updating the pet</string>
+    <string name="breed_unknown">Breed Unknown</string>
+    <string name="measure_unit">kg</string>
+    <string name="empty_shelter_tittle">It is a little bit lonely...</string>
+    <string name="empty_shelter_subtitle">Get started by adding a pet</string>
+    <string name="warning_unsaved_dialog">Discard your changes and quit editing?</string>
+    <string name="warning_unsaved_positive">discard</string>
+    <string name="warning_unsaved_negative">keep editing</string>
+    <string name="warning_delete_pet_dialog">Delete the selected pet?</string>
+    <string name="warning_delete_pet_positive">delete</string>
+    <string name="warning_delete_pet_negative">keep editing</string>
+    <string name="warning_delete_all_pets_dialog">Warning! You are going to delete all entries.</string>
+    <string name="warning_delete_all_pets_positive">delete all</string>
+    <string name="warning_delete_all_pets_negative">cancel</string>
+</resources>

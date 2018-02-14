@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Options shown at the gender dropDown Spinner -->
+    <string-array name="array_gender_options">
+        <item>@string/gender_unknown</item>
+        <item>@string/gender_male</item>
+        <item>@string/gender_female</item>
+    </string-array>
+    <!-- Options Shown at the CatOrDog dropDown Spinner -->
+    <array name="cat_or_dog_selection">
+        <item>@string/unknown_pet</item>
+        <item>@string/cat</item>
+        <item>@string/dog</item>
+    </array>
+</resources>
